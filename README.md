@@ -6,7 +6,7 @@ Convolutional Neural Network (CNN) is an algorithm taking an image as input then
 ## Architecture of CNN for Cat & Dog Classification
 
 It has three layers namely convolutional, pooling, and a fully connected layer. It is a class of neural networks and processes data having a grid-like topology. The convolution layer is the building block of CNN carrying the main responsibility for computation
-![App Screenshot](https://www.researchgate.net/profile/Muhammad-Aamir-28/publication/336304381/figure/fig1/AS:812484013326338@1570722692740/A-simplified-CNN-architecture-for-dog-Classification.ppm)
+![App Screenshot](https://assets.skyfilabs.com/images/blog/image-classifer-for-identifying-cats-dogs.webp)
 
 
 
